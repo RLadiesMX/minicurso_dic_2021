@@ -14,11 +14,11 @@ Para descargar este material da click en el botón code y selecciona la opción 
 
 **readr**, **dplyr**, **tidyr**, **stringr** y **readxl**
 
-``install.packages("readr", dependencies=TRUE)``
-``install.packages("dplyr", dependencies=TRUE)``
-``install.packages("tidyr", dependencies=TRUE)``
-``install.packages("stringr", dependencies=TRUE)``
-``install.packages("readxl", dependencies=TRUE)``
+- ``install.packages("readr", dependencies=TRUE)``
+- ``install.packages("dplyr", dependencies=TRUE)``
+- ``install.packages("tidyr", dependencies=TRUE)``
+- ``install.packages("stringr", dependencies=TRUE)``
+- ``install.packages("readxl", dependencies=TRUE)``
 
 # Presentación
 
@@ -26,9 +26,9 @@ Para descargar este material da click en el botón code y selecciona la opción 
 
 # Ligas de interes
 
-- Definitivamente quieres checar este tutorial de [Alison Horst](https://www.allisonhorst.com/post/2021-02-08-dplyr-learnr/)
+- Definitivamente quieres checar este tutorial de [Alison Horst](https://www.allisonhorst.com/post/2021-02-08-dplyr-learnr/).
 
-- Y tambien quieres ver estas increibles ilustraciones de [Alison Horst](https://github.com/allisonhorst/stats-illustrations)
+- Y tambien quieres ver estas increibles ilustraciones de [Alison Horst](https://github.com/allisonhorst/stats-illustrations).
 
 
 # Tambien debes checar estas hojas de ayuda.
