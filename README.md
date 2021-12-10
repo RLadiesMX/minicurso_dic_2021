@@ -9,7 +9,7 @@ Fecha:
 
 - Viernes 10 de diciembre de 2021
 
-<img src="inst/rladies.jpeg"  width="350" height="150" align="right" /> 
+<img src="inst/rladies.jpeg"  width="150" height="150" align="right" /> 
 
 Instructoras: 
 - [Dra. Mirna Vázquez Rosas Landa](https://mirnavazquez.netlify.app)
