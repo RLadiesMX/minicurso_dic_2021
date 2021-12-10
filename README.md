@@ -46,7 +46,7 @@ Para descargar este material da click en el botón code y selecciona la opción 
 - [Transformación de datos con dplyr](https://raw.githubusercontent.com/rstudio/cheatsheets/main/translations/spanish/data-transformation_es.pdf)
 - [Working with strings with stringr](https://evoldyn.gitlab.io/evomics-2018/ref-sheets/R_strings.pdf)
 
-# Tambien estos links...
+# Tambien estos links
 
 - [dplyr](https://dplyr.tidyverse.org/)
 - [tidyr](https://tidyr.tidyverse.org/)
