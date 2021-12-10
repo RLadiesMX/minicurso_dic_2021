@@ -1,6 +1,6 @@
 
 
-# **Mini curso**  <img src="inst/red.jpeg"  width="350" height="150" align="right" /> <img src="inst/rladies.jpeg"  width="150" height="150" align="right" />
+# **Mini curso**  <img src="inst/red.jpeg"  width="350" height="150" align="right" /> <img src="inst/rladies.jpeg"  width="150" height="150" align="left" />
 
 <!-- badges: start -->
 <!-- badges: end -->
