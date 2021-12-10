@@ -10,7 +10,7 @@
 Este repositorio contiene el material del mini curso Manipulación de datos con dplyr y tidyr, organizado en colaboración con la Red Mexicana de Bioinformática [RMB](http://redmexicanadebioinformatica.org)
 
 
-<img src="inst/red.jpeg"  width="300" height="150" align="right" />
+<img src="inst/red.jpeg"  width="350" height="150" align="right" />
 <img src="inst/rladies.jpeg"  width="150" height="150" align="right" />
 
 
