@@ -1,14 +1,15 @@
 
 
-# **Mini curso**  <img src="inst/red.jpeg"  width="350" height="150" align="right" /> 
+# **Mini curso Manipulación de datos con dplyr y tidyr**  <img src="inst/red.jpeg"  width="350" height="150" align="right" /> 
 
-# Manipulación de datos con dplyr y tidyr
 
 Este repositorio contiene el material del mini curso Manipulación de datos con dplyr y tidyr, organizado en colaboración con la Red Mexicana de Bioinformática [RMB](http://redmexicanadebioinformatica.org)
 
 Fecha: 
 
 - Viernes 10 de diciembre de 2021
+
+<img src="inst/rladies.jpeg"  width="350" height="150" align="right" /> 
 
 Instructoras: 
 - [Dra. Mirna Vázquez Rosas Landa](https://mirnavazquez.netlify.app)
