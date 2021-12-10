@@ -1,9 +1,11 @@
 
 
-# **Mini curso Manipulación de datos con dplyr y tidyr** <img src="inst/red.jpeg"  width="300" height="150" align="right" /> <img src="inst/rladies.jpeg"  width="150" height="150" align="right" />
+# **Mini curso Manipulación de datos con dplyr y tidyr**  
 
 <!-- badges: start -->
 <!-- badges: end -->
+
+
 
 Este repositorio contiene el material del mini curso Manipulación de datos con dplyr y tidyr, organizado en colaboración con la Red Mexicana de Bioinformática [RMB](http://redmexicanadebioinformatica.org)
 
@@ -14,6 +16,10 @@ Instructoras:
 - [Lic. Carmina Barberena Jonas](https://twitter.com/BarjonCar)
 
 Para descargar este material da click en el botón code y selecciona la opción Download zip. Si lo prefieres, puedes clonar el repositorio en tu computadora usando git y el comando git clone.
+
+<img src="inst/red.jpeg"  width="300" height="150" align="right" />
+<img src="inst/rladies.jpeg"  width="150" height="150" align="right" />
+
 
 # Paquetes que necesitas instalar 
 
