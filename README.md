@@ -14,7 +14,9 @@ Este repositorio contiene el material del mini curso Manipulación de datos con 
 <img src="inst/rladies.jpeg"  width="150" height="150" align="right" />
 
 
-Fecha: viernes 10 de diciembre de 2021
+Fecha: 
+
+- Viernes 10 de diciembre de 2021
 
 Instructoras: 
 - [Dra. Mirna Vázquez Rosas Landa](https://mirnavazquez.netlify.app)
