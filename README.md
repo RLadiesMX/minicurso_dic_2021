@@ -1,6 +1,6 @@
 
 
-# **Mini curso Manipulación de datos con dplyr y tidyr** <img src="inst/red.jpeg"  width="300" height="150" align="right" />
+# **Mini curso Manipulación de datos con dplyr y tidyr** <img src="inst/red.jpeg"  width="300" height="150" align="right" /> <img src="inst/rladies.jpeg"  width="150" height="150" align="right" />
 
 <!-- badges: start -->
 <!-- badges: end -->
